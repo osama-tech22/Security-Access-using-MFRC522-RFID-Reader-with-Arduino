@@ -11,6 +11,25 @@ An RFID tag is an identification system that uses small radio frequency identifi
 * ##### 
 
 ### MFRC522 Wiring Diagram : 
+PinWiring to Arduino Uno
+
+SDA------------------------Digital 10
+
+SCK------------------------Digital 13
+
+MOSI----------------------Digital 11
+
+MISO----------------------Digital 12
+
+IRQ------------------------unconnected
+
+GND-----------------------GND
+
+RST------------------------Digital 9
+
+3.3V------------------------3.3V (DO NOT CONNECT TO 5V) 
+
+
 
 
 ### links to Documention and Videos
