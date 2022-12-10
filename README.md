@@ -7,10 +7,8 @@ An RFID tag is an identification system that uses small radio frequency identifi
 * ##### Buzzer
 * ##### F to F Jumper
 * ##### M to M Jumper
-### Steps : 
-* ##### 
-
-### MFRC522 Wiring Diagram : 
+### Steps : 1
+* ### MFRC522 Wiring Diagram : 
 PinWiring to Arduino Uno
 
 SDA------------------------Digital 10
@@ -29,6 +27,8 @@ RST------------------------Digital 9
 
 3.3V------------------------3.3V (DO NOT CONNECT TO 5V) 
 
+![Mifare_bb](https://user-images.githubusercontent.com/113222717/206814093-11b310ea-296f-4a73-9f68-bd86cb4f59fa.png)
+### Steps : 2
 
 
 
